@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Bookify",
+    "slug": "Bookify",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "entryPoint": "./src/App.js",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.teykofr.Bookify"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5d6153a5-5e04-4e32-a785-fb729d178231"
+      }
+    }
+  }
+}
