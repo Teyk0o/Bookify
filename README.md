@@ -27,7 +27,7 @@ Pour créer un build de l'application, utilisez **EAS (Expo Application Services
 
 ## 📋 Licence
 
-Ce projet est sous licence **CC BY-NC-ND 4.0**. Consultez le fichier [LICENCE](./LICENSE) pour plus de détails.
+Ce projet est sous licence **CC BY-NC-ND 4.0**. Consultez le fichier [LICENCE](./LICENSE.md) pour plus de détails.
 
 ## 🤝 Contribuer
 
